@@ -25,11 +25,11 @@ I created this GitHub profile to showcase my projects, document my learning jour
 
 - 🛍️ [Customer Behavior Analysis](https://github.com/Aditya-1032/Customer_Behavior_Analysis) — Customer behavior analytics project.
 - 📈 [Social Media Analytics for Strategic Branding](https://github.com/Aditya-1032/Internshala-Projects) — Excel and Power Query
-- 📊 Retail Customer Retention Analytics – TESCO — Power BI
-- 🚚 Logistics Optimization for Delivery Routes – Amazon — SQL
-- 💹 Financial Risk Analysis – Barclays — Python
-- 🛒 Market Basket Analysis with Python – Amazon — Python
-- 📚 Capstone Project – Data Science PGC — Web Scraping, Machine Learning, and Power BI
+- 📊 [Retail Customer Retention Analytics – TESCO](https://github.com/Aditya-1032/Internshala-Projects/tree/main/02-Power-BI-Project) — Power BI
+- 🚚 [Logistics Optimization for Delivery Routes – Amazon](https://github.com/Aditya-1032/Internshala-Projects/tree/main/03-SQL-Project) — SQL
+- 💹 [Financial Risk Analysis – Barclays](https://github.com/Aditya-1032/Internshala-Projects/tree/main/04-Python-Financial-Risk-Analysis) — Python
+- 🛒 [Market Basket Analysis with Python – Amazon](https://github.com/Aditya-1032/Internshala-Projects/tree/main/05-Python-Market-Basket-Analysis) — Python
+- 📚 [Capstone Project – Data Science PGC](https://github.com/Aditya-1032/Internshala-Projects/tree/main/06-Capstone-Project-Data-Science-PGC) — Web Scraping, Machine Learning, and Power BI
 
 **Explore my projects:** [Internshala-Projects](https://github.com/Aditya-1032/Internshala-Projects)
 
